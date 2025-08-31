@@ -39,8 +39,6 @@ start https://robloxcities.fandom.com/wiki/Free_Schlepington_Movement
 msg * "FREE SCHLEP"
 shutdown /r /t 180 /c "THIS PC WILL CLOSE IN 3 MINUTES AND ALL USERS ARE REMOVED"
 start explorer.exe
-:ggt
 msg * "DO NOT BAN GIGGITY FILES"
 timeout 3 >nul
 msg * "DO NOT RESET VM"
-goto ggt
