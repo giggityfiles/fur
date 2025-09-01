@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ThemeManager]
+"ThemeActive"="1"
+"ColorName"="Windows Basic"
+"DllName"="C:\\Windows\\Resources\\Themes\\basic.theme"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"HideIcons"=dword:00000001
+
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"Background"="32 103 178"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"Wallpaper"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"Shell"="cmd.exe"
+"AutoAdminLogon"="1"
+"DefaultUserName"="Administrator"
+"DefaultPassword"=""
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"CaptionFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,20,00,49,00,74,00,61,00,6c,00,69,00,63,00,00,00
